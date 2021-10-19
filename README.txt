@@ -1,4 +1,5 @@
 README.txt
 awesome example
-awesome file
+awesome files
+adding to this file in vim
 ...
